@@ -1,8 +1,9 @@
+import Slider from "../SliderHomePage/Slider";
 
 export default function HomePage() {
-    return (
+    return(
         <div>
-
+            <Slider />
         </div>
     );
 }
